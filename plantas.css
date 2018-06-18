@@ -1,0 +1,22 @@
+h1 {
+  color: limegreen;
+  font-family: "Times New Roman", sans-serif;
+  size: 28px;
+}
+
+h2 {
+  color: limegreen;
+  font-family: "Times New Roman", sans-serif;
+  size: 24px;
+}
+
+img {
+  border: 4px solid limegreen;
+}
+
+body {
+  background-image: url(images/fundo.png);
+  font-family: "Arial", sans-serif;
+  text-align: justify;
+}
+
